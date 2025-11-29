@@ -1,6 +1,6 @@
 # Big-Numbers-Formatter-in-Unity
 This is a script you can bring into your unity project to format big numbers into strings to make it more readable for your players!
-
+### Download it [Here](https://github.com/Broken-Flame-Games/Big-Numbers-Formatter-in-Unity/releases/tag/Release)
 # How To Use
 After importing the folder or script into your assets directory follow these steps into your script!
 
